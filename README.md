@@ -1,2 +1,2 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+Python program to fetch and calculate ratio of any two stocks as a comparison using JP Morgan's online platform, Prespective
